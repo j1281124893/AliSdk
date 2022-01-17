@@ -1,0 +1,17 @@
+{
+    "name": "ali/ali-sdk",
+    "description": "阿里SDK fork",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "coder",
+            "email": "1028914082@qq.com"
+        }
+    ],
+    "autoload": {
+        "classmap": [
+            "./"
+        ]
+    }
+}
